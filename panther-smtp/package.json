@@ -1,0 +1,8 @@
+{
+  "name": "panther-smtp",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
